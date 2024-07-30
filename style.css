@@ -1,0 +1,84 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: "Montserrat", sans-serif;
+}
+
+body{
+	background: url(bg.jpg);
+	background-size: cover;
+	align-items: center;
+	justify-content: center;
+}
+
+.top-logo-img{
+	margin-top: 30px;
+	border-radius: 50px;
+	overflow: hidden;
+	border: 3px solid white;
+	width: 750px;
+	height: 210px;
+}
+
+.top-logo-img img{
+	width: 750px;
+}
+
+.contac-row2-all-cover{
+	margin-top: 10px;
+}
+
+.contac-row2-per{
+	background-color: black;
+	width: 630px;
+	height: 66px;
+	border-radius: 30px;
+	border: 3px solid white;
+	margin-top: 20px;
+	align-content: center;
+}
+
+.contac-row2-per a{
+	text-decoration: none;
+}
+
+.contac-row2-container-cover{
+	display: flex;
+	justify-content: left;
+}
+
+.contac-row2-left{
+	margin-left: 2px;
+	background-size: cover;
+}
+
+.contac-row2-left img{
+	width: 60px;
+	height: auto;
+}
+
+.contac-row2-right{
+	background-size: cover;
+	width: 100%;
+	align-content: center;
+}
+
+.contac-row2-wordi{
+	text-align: center;
+	font-weight: 900;
+	font-size: 20px;
+	color: white;
+}
+
+.contac-row2-per:hover{
+	background-color: #fbbc04;
+}
+
+.contac-row2-wordi:hover{
+	color: black;
+}
+
+
+.footer-full-page{
+	margin-bottom: 100px;
+}
