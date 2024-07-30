@@ -16,12 +16,12 @@ body{
 	border-radius: 50px;
 	overflow: hidden;
 	border: 3px solid white;
-	width: 750px;
-	height: 210px;
+	width: 450px;
+	height: 128px;
 }
 
 .top-logo-img img{
-	width: 750px;
+	width: 450px;
 }
 
 .contac-row2-all-cover{
@@ -30,8 +30,9 @@ body{
 
 .contac-row2-per{
 	background-color: black;
-	width: 630px;
-	height: 66px;
+	width: auto;
+	height: auto;
+	padding: 20px;
 	border-radius: 30px;
 	border: 3px solid white;
 	margin-top: 20px;
@@ -42,18 +43,13 @@ body{
 	text-decoration: none;
 }
 
-.contac-row2-container-cover{
-	display: flex;
-	justify-content: left;
-}
-
 .contac-row2-left{
 	margin-left: 2px;
 	background-size: cover;
 }
 
 .contac-row2-left img{
-	width: 60px;
+	width: 100px;
 	height: auto;
 }
 
